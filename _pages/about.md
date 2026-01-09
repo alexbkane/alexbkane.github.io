@@ -1,15 +1,19 @@
 ---
+layout: single
 permalink: /
-title: "About me"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+author_profile: false
 ---
 
-Welcome! I am a 4th year PhD student in economics at Boston University. My research interests are in Economic History, Applied Microeconomics, and Labor Economics.
+<!-- This wrapper guarantees centering on the homepage -->
+<div class="home-hero-wrap" style="max-width: 840px; margin: 0 auto;">
 
-You can reach me at [alexkane@bu.edu](mailto:alexkane@bu.edu).
+  <div class="home-hero">
+    <img src="{{ '/images/headshot.png' | relative_url }}" alt="Alex Kane" class="home-hero__photo">
+    <div class="home-hero__text">
+      <p>Welcome! I am a 4th year PhD student in economics at Boston University. My research interests are in Economic History, Applied Microeconomics, and Labor Economics.</p>
 
- 
+      <p>You can reach me at alexkane@bu.edu</p>
+    </div>
+  </div>
+
+</div>
