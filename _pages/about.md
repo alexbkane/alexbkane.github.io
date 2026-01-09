@@ -13,9 +13,9 @@ author_profile: false
 }
 
 .home-content img {
-  width: 200px;
-  height: 200px;
-  border-radius: 50%;
+  width: 300px;
+  height: auto;
+  border-radius: 4px;
   object-fit: cover;
   flex-shrink: 0;
 }
