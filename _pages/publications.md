@@ -10,7 +10,7 @@ author_profile: false
 **The Economic Impact of the American Civil War on Northern Textile Towns** [[PDF]](/files/civil war ma.pdf)
 <details>
 <summary>Abstract</summary>
-I examine the effects of the American Civil War on Northern manufacturing by considering the massive supply shock to the female-dominated cotton textiles industry in Massachusetts. Using newly digitized 19th-century manufacturing censuses and a differences-in-differences identification strategy, I find that the war did not hinder long-run growth. Although wartime female employment dropped substantially in textile-producing towns, it recovered within ten years, as did the cotton textiles industry. Male employment and manufacturing output were unaffected. A lack of wartime outmigration partially explains the immediate recovery, which contrasts with the British experience of the same shock.
+I examine the effect of the Civil War on Northern manufacturing by considering the massive supply shock to female-dominated cotton textiles in Massachusetts. Using newly digitized manufacturing censuses and a differences-in-differences identification strategy, I find that despite short-run disruption, the war did not hinder long-run growth. Female employment dropped substantially in textile-producing towns during the war, but recovered within ten years, as did the broader cotton textiles industry. Male employment and manufacturing output were unaffected. A lack of wartime outmigration partially explains the immediate recovery, suggesting responses to local labor demand shocks depend critically upon the specific context.
 </details>
 
 **Efficiency and Distributional Effects of Federal College Subsidies during the Great Depression** (with Gerald Jaynes) [[PDF]](/files/Efficiency and Distributional Effects of Federal College Subsidies.pdf)
@@ -26,6 +26,8 @@ We conduct the first quantitative assessment of federal college subsidies during
 --->
 
 ## Work in Progress
+
+**Exclusion and Assimilation Under Fire: Irish Immigrants and the American Civil War**
 
 **Iron Horses and Iron Chains: The Effect of Railroad Expansion and Market Access on Slavery** (with James Feigenbaum)
 
